@@ -1,9 +1,9 @@
 Coral Reef Tipping Point Evidence Assessment
 Data Inspection and Feasibility Analysis
 
-============================================================
-PROJECT OVERVIEW
-============================================================
+
+# PROJECT OVERVIEW
+
 
 This repository contains a structured data inspection and feasibility analysis of
 multiple long-term coral reef monitoring datasets. The purpose of this work is
@@ -21,9 +21,8 @@ All analyses are intentionally conservative and diagnostic, designed to clarify
 what the data can and cannot support.
 
 
-============================================================
-REPOSITORY STRUCTURE
-============================================================
+# REPOSITORY STRUCTURE
+
 
 CoralReefs/
 │
@@ -45,9 +44,7 @@ CoralReefs/
 
 
 
-============================================================
-DATASETS
-============================================================
+# DATASETS
 
 Dataset 1: Coral Cover at St. John (USVI) and Moʻorea LTER Sites (1992–2019)
 Source:
@@ -86,9 +83,7 @@ starfish density. Temporal sampling is sparse and irregular, limiting tipping-po
 inference despite long time spans.
 
 
-------------------------------------------------------------
-
-Dataset 4: USGS Coral Cover Time-Series Dataset (1992–2015)
+# Dataset 4: USGS Coral Cover Time-Series Dataset (1992–2015)
 Sources:
 https://coastal.er.usgs.gov/data-release/doi-F78W3C7W/
 https://www.usgs.gov/data/time-series-coral-cover-data-hawaii-florida-moorea-and-virgin-islands
@@ -99,9 +94,7 @@ The dataset highlights limitations of detectability when monitoring begins after
 substantial ecological degradation.
 
 
-============================================================
-CODE OVERVIEW: data_loader.py
-============================================================
+# CODE OVERVIEW: data_loader.py
 
 The data_loader.py script performs dataset-specific loading, validation, and
 diagnostic analysis. Its purpose is feasibility assessment, not modeling or
@@ -123,9 +116,7 @@ signals would be statistically observable given noise, sampling resolution, and
 record length.
 
 
-============================================================
-SUMMARY OF FINDINGS
-============================================================
+# SUMMARY OF FINDINGS
 
 Across all datasets:
 - Abrupt coral declines are common, but recovery is frequently observed
@@ -140,9 +131,7 @@ tipping point. Instead, they reveal fundamental limits on detectability and the
 risk of conflating collapse with irreversible regime shifts.
 
 
-============================================================
-SCOPE AND NEXT STEPS
-============================================================
+# SCOPE AND NEXT STEPS
 
 This repository establishes:
 - Data feasibility
