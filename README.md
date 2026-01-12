@@ -82,8 +82,9 @@ Includes explicit measurements of external stressors, especially crown-of-thorns
 starfish density. Temporal sampling is sparse and irregular, limiting tipping-point
 inference despite long time spans.
 
+------------------------------------------------------------
 
-# Dataset 4: USGS Coral Cover Time-Series Dataset (1992–2015)
+Dataset 4: USGS Coral Cover Time-Series Dataset (1992–2015)
 Sources:
 https://coastal.er.usgs.gov/data-release/doi-F78W3C7W/
 https://www.usgs.gov/data/time-series-coral-cover-data-hawaii-florida-moorea-and-virgin-islands
