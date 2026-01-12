@@ -125,9 +125,3 @@ Across all datasets:
 - External stressors dominate observed dynamics
 - Noise and sampling limitations strongly constrain inference
 
-Conclusion:
-Currently available observational datasets do not provide strong scientific
-evidence that coral reef systems have already crossed an intrinsic dynamical
-tipping point. Instead, they reveal fundamental limits on detectability and the
-risk of conflating collapse with irreversible regime shifts.
-
