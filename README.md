@@ -131,14 +131,3 @@ evidence that coral reef systems have already crossed an intrinsic dynamical
 tipping point. Instead, they reveal fundamental limits on detectability and the
 risk of conflating collapse with irreversible regime shifts.
 
-
-# SCOPE AND NEXT STEPS
-
-This repository establishes:
-- Data feasibility
-- Empirical constraints
-- A disciplined separation between claims and evidence
-
-Any future modeling (e.g., reservoir computing or meta-learning) should proceed
-only after explicitly accounting for these limitations and addressing issues of
-learnability and detectability.
