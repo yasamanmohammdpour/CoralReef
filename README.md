@@ -23,7 +23,7 @@ what the data can and cannot support.
 
 # REPOSITORY STRUCTURE
 
-
+```
 CoralReefs/
 │
 ├── Data/
@@ -41,7 +41,7 @@ CoralReefs/
 │
 ├── data_loader.py
 └── README.md
-
+```
 
 
 # DATASETS
